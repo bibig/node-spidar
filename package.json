@@ -1,0 +1,32 @@
+{
+  "author": "Bibig <bibig@me.com> (https://twitter.com/bibig)",
+  "name": "spidar",
+  "version": "0.0.1",
+  "description": "web spider common tools, targets on chinese sites",
+  "license": "BSD-2-Clause",
+  "main": "index.js",
+  "keywords": [
+    "html",
+    "spider",
+    "spidar"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bibig/node-spidar.git"
+  },
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "dependencies": {
+    "iconv": "*",
+    "lodash": "*"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/bibig/node-rander/issues"
+  }
+  
+}
