@@ -1,7 +1,7 @@
 {
   "author": "Bibig <bibig@me.com> (https://twitter.com/bibig)",
   "name": "spidar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "web spider common tools, targets on chinese sites",
   "license": "BSD-2-Clause",
   "main": "index.js",
